@@ -12,3 +12,7 @@ Error message
 # Weather API made with tkinter
 
 Basic weather app made with Tkinter which provides weather, humidity, time, precipitation from API. (Adapted from Youtube)
+
+# Airplane API 
+
+Uses API to track current flight data and provides user with the departure airport, arrival airport and flight number. 
