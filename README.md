@@ -1,6 +1,6 @@
-# API_practice
+# API_practice and GUI practice
 
-# Password Generator with Tkinter
+# Password Generator gui with Tkinter
 
 Basic password generator using Tkinter for visuals made with Python
 
