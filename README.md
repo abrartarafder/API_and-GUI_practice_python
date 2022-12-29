@@ -22,3 +22,7 @@ Uses API to track current flight data and provides user with the departure airpo
 Simple to do list made using tkinter to list items (very helpful and useful)
 
 <img width="903" alt="Screenshot 2022-12-29 at 12 28 05 AM" src="https://user-images.githubusercontent.com/95165049/209907222-9781baf7-4375-4c73-bc53-5680aaca1acb.png">
+
+Items can be deleted by selecting them (they are highlighted in a dark blue color and then the delete button used to delete items
+
+<img width="903" alt="Screenshot 2022-12-29 at 12 28 05 AM" src="https://user-images.githubusercontent.com/95165049/209907362-8f62d9ea-0a58-496b-845e-4480fb6ead68.png">
