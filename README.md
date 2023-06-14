@@ -2,6 +2,10 @@
 
 # Password Generator gui with Tkinter
 
+## Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 Basic password generator using Tkinter for visuals made with Python
 
 <img width="891" alt="Screenshot 2022-12-24 at 6 23 38 PM" src="https://user-images.githubusercontent.com/95165049/209453170-099328a9-ea95-4263-bed1-36204b759328.png">
